@@ -44,7 +44,7 @@ I focus on producing **clean, scalable, and high-quality code**, and I’m alway
 
 ### 🚀 Deployment & Tools  
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,git,github,vscode,figma,canva" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,git,github,vscode" />
 </p>
 
 ### 🎨 Design Tools  
