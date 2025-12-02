@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahidur Rahman</h1>
 <h3 align="center">💻 MERN Stack Developer | Passionate About Full-Stack Web Development</h3>
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/mahidur-190100/mahidur-190100/blob/main/banner.jpg" alt="Banner" width="100%" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me  
