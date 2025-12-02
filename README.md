@@ -63,18 +63,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahidur-190100&show_icons=true&layout=compact" height="165"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahidur-190100&show_icons=true" height="165"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahidur-190100" height="165"/>
+## 📊 GitHub Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahidur-190100&theme=default" alt="GitHub Streak Stats" />
 </p>
 
 ---
