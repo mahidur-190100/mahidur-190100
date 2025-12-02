@@ -1,21 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mahidur Rahman</h1>
 <h3 align="center">💻 MERN Stack Developer | Passionate About Full-Stack Web Development</h3>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/mahidur-190100/mahidur-190100/blob/main/banner.jpg" alt="Banner" width="100%" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me  
-I’m a **MERN Stack Developer** who loves building modern web applications that solve real problems.  
-I focus on writing **clean, scalable, and optimized code**, and I enjoy learning new technologies to improve my craft.
+
+I'm a **MERN Stack Developer** who enjoys building full-stack web applications and solving real-world problems.  
+I focus on producing **clean, scalable, and high-quality code**, and I’m always learning new tools to grow as a developer.
 
 ---
 
 ## 🚀 Current Activities  
 
-- 🚀 Improving my **Frontend & Backend** MERN skills  
-- 🎨 Mastering **UI Design** using *Tailwind CSS & Figma*  
-- 🧠 Learning advanced **React Hooks** & **API integration**  
-- 🛠️ Building full-stack projects using *React, Node.js, MongoDB*  
-- ☁️ Deploying apps using *Vercel, Netlify & Firebase*
+- ⚛️ Enhancing my React skills & working with advanced Hooks  
+- 🧠 Learning deeper backend logic with Node.js & Express  
+- 🛠️ Building full MERN projects with full authentication  
+- 🎨 Improving UI/UX using Tailwind CSS & Figma  
+- ☁️ Deploying apps using Vercel, Firebase, and Netlify  
+- 🗄️ Practicing MySQL and database fundamentals  
 
 ---
 
@@ -38,7 +45,7 @@ I focus on writing **clean, scalable, and optimized code**, and I enjoy learning
 
 ### 🗄️ Database  
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,firebase" />
 </p>
 
 ### 🚀 Deployment & Tools  
@@ -83,6 +90,7 @@ I focus on writing **clean, scalable, and optimized code**, and I enjoy learning
 ---
 
 ## 🏆 Top Contributed Repositories  
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mahidur-190100&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
