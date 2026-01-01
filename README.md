@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ibb.co.com/sdVpqPP0" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahidur Rahman</h1>
 <h3 align="center">💻 MERN Stack Developer | Passionate About Full-Stack Web Development</h3>
 ---
@@ -7,7 +11,6 @@
 I'm a **MERN Stack Developer** who enjoys building full-stack web applications and solving real-world problems.  
 I focus on producing **clean, scalable, and high-quality code**, and I’m always learning new tools to grow as a developer.
 
----
 
 ## 🚀 Current Activities  
 
