@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/sdVpqPP0" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/v6jCkBB7/White-Blue-Modern-Digital-Marketing-Linkedin-Banner-2.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahidur Rahman</h1>
